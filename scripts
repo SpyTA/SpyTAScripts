@@ -1,4 +1,5 @@
 {
   "Auto Clicker": "loadstring(game:HttpGet('https://pandadevelopment.net/virtual/file/8df79316022b5313'))()",
+  "Universal Car Speed": "loadstring(game:HttpGet("https://raw.githubusercontent.com/SpyTA/Test/refs/heads/main/CarSpeed"))()",
   "Fly Mobile V2": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SpyTA/FlyMobile/refs/heads/main/V2'))()"
 }
