@@ -1,0 +1,4 @@
+{
+  "AutoClicker": "loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/8df79316022b5313"))()",
+  "FlyMobile": "loadstring(game:HttpGet("https://raw.githubusercontent.com/SpyTA/FlyMobile/refs/heads/main/V2"))()"
+}
